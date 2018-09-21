@@ -15,3 +15,10 @@ function johnLennonFacts(facts){
   }
   return facts
 }
+
+fuction iLoveTheBeatles(number){
+  var anArray = []
+  do{
+
+  }while(number<15)
+}
