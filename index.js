@@ -16,7 +16,7 @@ function johnLennonFacts(facts){
   return facts
 }
 
-fuction iLoveTheBeatles(number){
+function iLoveTheBeatles(number){
   var anArray = []
   do{
     anArray += "I love the Beatles!"
