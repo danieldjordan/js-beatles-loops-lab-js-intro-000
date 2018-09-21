@@ -20,6 +20,7 @@ function iLoveTheBeatles(number){
   var anArray = []
   do{
     anArray += "I love the Beatles!"
+    number++
   }
   while(number<15)
 }
